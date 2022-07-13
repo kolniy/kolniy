@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a full stack multi collection e-commerce web app **Eshopper**
 
-- I'm currently learning **GRAPHQL, kubernetes and docker**
+- I'm currently learning **kubernetes and docker**
 
 - 👨‍💻 All of my projects are available at [www.kolaniyi.com](www.kolaniyi.com)
 
