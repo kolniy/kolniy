@@ -8,7 +8,7 @@
 
 - I'm currently learning **kubernetes and docker**
 
-- 👨‍💻 All of my projects are available at [www.kolaniyi.com](www.kolaniyi.com)
+- 👨‍💻 See my portfolio are available at [kolaniyi.netlify.app](kolaniyi.netlify.app)
 
 - 💬 Ask me about my tech stack and how I can collaborate with you or your team on your next project . Also ask me about **react, nodesjs, Graphql, mongodb**
 
