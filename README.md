@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kolniy" alt="kolniy" /> </p>
 
-- 🔭 I’m currently working on a full stack multi collection e-commerce web app **Eshopper**
+- 🔭 I’m currently working with Dabblelab Inc as a full-stack **developer**
 
 - I'm currently learning **kubernetes and docker**
 
